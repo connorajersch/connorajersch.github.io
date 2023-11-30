@@ -1,0 +1,15 @@
+.col-lightest { 
+	background: #f0ece2; 
+}
+	
+.col-light { 
+	background: #dfd3c3; 
+}
+
+.col-dark { 
+	background: #c7b198; 
+}
+
+.col-darkest { 
+	background: #596e79; 
+}

@@ -3,10 +3,11 @@ import React from 'react'
 import { useResolvedPath, Link, useMatch } from 'react-router-dom'
 
 import "./Navbar.css"
+import "../Colours.css"
 
 export const Navbar = () => {
     return (
-        <nav className='nav'>
+        <nav className='nav col-darkest'>
             <a href='/' className='site-title'>Connor Ajersch</a>
             <ul>
                 <NavLink to='/'>Home</NavLink>

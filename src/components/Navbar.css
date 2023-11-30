@@ -1,19 +1,22 @@
+@import url("../Colours.css");
+
 * {
     box-sizing: border-box;
 }
 
 body {
     margin: 0;
+    background: #dfd3c3;
 }
 
 .nav {
-    background-color: slategray;
-    color: white;
+    color: #f3f2ef;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
     gap: 2rem;
     padding: 0 1rem;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .site-title {

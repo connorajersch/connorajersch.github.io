@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.introduction {
+    padding: 0.5rem;
+    margin: none;
+    width: 100%;
+    text-align: center;
+    padding-top: 5rem;
+
+}
+
+.large-hello {
+    margin: auto;
+    font-size: 3rem;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.short-intro-text {
+    margin: auto;
+    font-size: 1rem;
+    font-family: 'Roboto Mono', monospace;
+    
+}
